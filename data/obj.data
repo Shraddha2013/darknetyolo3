@@ -1,0 +1,5 @@
+classes= 3
+train  = /content/darknetyolo3/data/train.txt
+valid  = /content/darknetyolo3/data/test.txt
+names = /content/darknetyolo3/data/obj.names
+backup = /content/darknetyolo3/backup
